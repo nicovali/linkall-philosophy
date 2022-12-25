@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophers/revolution-era/revolution-era/"}
+{"dg-publish":true,"permalink":"/philosophers/revolution-era/revolution-era/","dgPassFrontmatter":true}
 ---
 
 • [[Voltaire\|Voltaire]]
