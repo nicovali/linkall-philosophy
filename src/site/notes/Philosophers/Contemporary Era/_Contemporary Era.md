@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophers/contemporary-era/contemporary-era/"}
+{"dg-publish":true,"permalink":"/philosophers/contemporary-era/contemporary-era/","dgPassFrontmatter":true}
 ---
 
 • [[Roland Barthes\|Roland Barthes]]
