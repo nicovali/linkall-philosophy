@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophers/rennaissance-era/renaissance-era/"}
+{"dg-publish":true,"permalink":"/philosophers/rennaissance-era/renaissance-era/","dgPassFrontmatter":true}
 ---
 
 • [[Niccolo Machiavelli\|Niccolo Machiavelli]]
