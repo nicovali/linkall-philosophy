@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":"gardenEntry"}
+{"dg-home":true,"dg-publish":true,"permalink":"/home/","tags":"gardenEntry","dgPassFrontmatter":true}
 ---
 
 Here if you looking on book of the philosophers [[Books/_Book Genre of Philosophy\|_Book Genre of Philosophy]]
