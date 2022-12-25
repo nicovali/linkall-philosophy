@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophers/medieval-era/medieval-era/"}
+{"dg-publish":true,"permalink":"/philosophers/medieval-era/medieval-era/","dgPassFrontmatter":true}
 ---
 
 • [[St. Augustine of Hippo\|St. Augustine of Hippo]]
