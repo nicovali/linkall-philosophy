@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophers/modern-era/modern-era/"}
+{"dg-publish":true,"permalink":"/philosophers/modern-era/modern-era/","dgPassFrontmatter":true}
 ---
 
 • [[Friedrich Nietzsche\|Friedrich Nietzsche]]
