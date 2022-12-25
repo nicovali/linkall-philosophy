@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophers/ancient-era/ancient-era/"}
+{"dg-publish":true,"permalink":"/philosophers/ancient-era/ancient-era/","dgPassFrontmatter":true}
 ---
 
 • [[Thales of Miletus\|Thales of Miletus]]
