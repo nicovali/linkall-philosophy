@@ -1,5 +1,5 @@
 ---
-{"title":"Aristotle","dg-publish":true,"tags":["epistemologists","metaphysicians","ethicists","logicians","1-10th","ancient-era","Greek","figures"],"born-date":"C. 384 BCE","keywords":"Aristotle, philosopher, classical Greece, metaphysics, ethics, politics, biology","aliases":"student of Plato, tutor of Alexander the Great","permalink":"/philosophers/ancient-era/aristotle/","dgPassFrontmatter":true}
+{"title":"Aristotle","dg-publish":true,"tags":["epistemologists","metaphysicians","ethicists","logicians","1-10th","ancient-era","Greek","figures"],"born-date":-384,"keywords":"Aristotle, philosopher, classical Greece, metaphysics, ethics, politics, biology","aliases":"student of Plato, tutor of Alexander the Great","permalink":"/philosophers/ancient-era/aristotle/","dgPassFrontmatter":true}
 ---
 
 ## Biography
