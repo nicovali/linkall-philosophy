@@ -2,35 +2,21 @@
 {"dg-publish":true,"permalink":"/philosophers/modern-era/modern-era/","dgPassFrontmatter":true}
 ---
 
-• [[Philosophers/Modern Era/Friedrich Nietzsche\|Friedrich Nietzsche]]
-• [[Ahad Ha'am\|Ahad Ha'am]]
-• [[Philosophers/Modern Era/Ferdinand de Saussure\|Ferdinand de Saussure]]
-• [[Edmund Husserl\|Edmund Husserl]]
-• [[Philosophers/Modern Era/Henri Bergson\|Henri Bergson]]
-• [[Philosophers/Modern Era/John Dewey\|John Dewey]]
-• [[George Santayana\|George Santayana]]
-• [[Miguel de Unamuno\|Miguel de Unamuno]]
-• [[William dua Bois\|William dua Bois]]
-• [[Philosophers/Modern Era/Bertrand Russell\|Bertrand Russell]]
-• [[Philosophers/Modern Era/Max Scheler\|Max Scheler]]
-• [[Karl Jaspers\|Karl Jaspers]]
-• [[Jose Ortega y Gasset\|Jose Ortega y Gasset]]
-• [[Hajime Tanabe\|Hajime Tanabe]]
-• [[Ludwig Wittgenstein \|Ludwig Wittgenstein ]]
-• [[Philosophers/Modern Era/Martin Heidegger\|Martin Heidegger]]
-• [[Tetsuro Watsuji\|Tetsuro Watsuji]]
-• [[Rudolf Carnap\|Rudolf Carnap]]
-• [[Walter Benjamin\|Walter Benjamin]]
-• [[Herbert Marcuse\|Herbert Marcuse]]
-• [[Hans-Gerog Gadamer\|Hans-Gerog Gadamer]]
-• [[Karl Popper\|Karl Popper]]
-• [[Theodor Adorno\|Theodor Adorno]]
-• [[Philosophers/Modern Era/Jean-Paul Sartre\|Jean-Paul Sartre]]
-• [[Philosophers/Modern Era/Hannah Arendt\|Hannah Arendt]]
-• [[Philosophers/Modern Era/Emmanuel Levinas\|Emmanuel Levinas]]
-• [[Philosophers/Modern Era/Maurice Merleau-Ponty\|Maurice Merleau-Ponty]]
-• [[Philosophers/Modern Era/Simone de Beauvoir\|Simone de Beauvoir]]
-• [[Willard Van Orman Quine\|Willard Van Orman Quine]]
-• [[Isaiah Berlin\|Isaiah Berlin]]
-• [[Arne Naess\|Arne Naess]]
-• [[Philosophers/Modern Era/Albert Camus\|Albert Camus]]
+
+| File                                                                        | Born Date |
+| --------------------------------------------------------------------------- | --------- |
+| [[Philosophers/Modern Era/Friedrich Nietzsche\|Friedrich Nietzsche]]     | 1844      |
+| [[Philosophers/Modern Era/Ferdinand de Saussure\|Ferdinand de Saussure]] | 1857      |
+| [[Philosophers/Modern Era/Henri Bergson\|Henri Bergson]]                 | 1859      |
+| [[Philosophers/Modern Era/Bertrand Russell\|Bertrand Russell]]           | 1872      |
+| [[Philosophers/Modern Era/Max Scheler\|Max Scheler]]                     | 1874      |
+| [[Philosophers/Modern Era/Ludwig Wittgenstein\|Ludwig Wittgenstein]]     | 1889      |
+| [[Philosophers/Modern Era/Martin Heidegger\|Martin Heidegger]]           | 1889      |
+| [[Philosophers/Modern Era/Jean-Paul Sartre\|Jean-Paul Sartre]]           | 1905      |
+| [[Philosophers/Modern Era/Hannah Arendt\|Hannah Arendt]]                 | 1906      |
+| [[Philosophers/Modern Era/Emmanuel Levinas\|Emmanuel Levinas]]           | 1906      |
+| [[Philosophers/Modern Era/Simone de Beauvoir\|Simone de Beauvoir]]       | 1908      |
+| [[Philosophers/Modern Era/Maurice Merleau-Ponty\|Maurice Merleau-Ponty]] | 1908      |
+| [[Philosophers/Modern Era/Albert Camus\|Albert Camus]]                   | 1913      |
+
+
