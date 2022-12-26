@@ -16,7 +16,7 @@
 
 ## Related Figures
 
--   [[René Descartes\|René Descartes]] - Leibniz's work in philosophy and mathematics was heavily influenced by the ideas of René Descartes, and he is often considered to be a major figure in the development of modern philosophy and mathematics.
+-   [[Philosophers/Renaissance Era/René Descartes\|René Descartes]] - Leibniz's work in philosophy and mathematics was heavily influenced by the ideas of René Descartes, and he is often considered to be a major figure in the development of modern philosophy and mathematics.
 
 ## Books
 
