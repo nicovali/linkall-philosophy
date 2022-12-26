@@ -1,5 +1,5 @@
 ---
-{"title":"Augustine of Hippo","dg-publish":true,"tags":["Roman","4th century","ancient-era","figures","medieval-era"],"born-date":354,"keywords":"Augustine of Hippo, philosophy, theology, Christianity","aliases":"Roman philosopher and theologian","permalink":"/philosophers/medieval-era/st-augustine-of-hippo/","dgPassFrontmatter":true}
+{"title":"Augustine of Hippo","dg-publish":true,"tags":["Roman","4th century","figures","medieval-era"],"born-date":354,"keywords":"Augustine of Hippo, philosophy, theology, Christianity","aliases":"Roman philosopher and theologian","permalink":"/philosophers/medieval-era/st-augustine-of-hippo/","dgPassFrontmatter":true}
 ---
 
 Biography
