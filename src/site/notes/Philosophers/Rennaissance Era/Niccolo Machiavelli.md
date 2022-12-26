@@ -1,5 +1,5 @@
 ---
-{"title":"Niccolo Machiavelli","dg-publish":true,"tags":["Italian","16th century","Renaissance-era","figures"],"born-date":1469,"keywords":"Niccolo Machiavelli, philosophy, politics, Italy","aliases":"Italian philosopher and political theorist","permalink":"/philosophers/rennaissance-era/niccolo-machiavelli/","dgPassFrontmatter":true}
+{"title":"Niccolo Machiavelli","dg-publish":true,"tags":["Italian","16th century","renaissance-era","figures"],"born-date":1469,"keywords":"Niccolo Machiavelli, philosophy, politics, Italy","aliases":"Italian philosopher and political theorist","permalink":"/philosophers/rennaissance-era/niccolo-machiavelli/","dgPassFrontmatter":true}
 ---
 
 ## Biography
