@@ -7,7 +7,7 @@
 • [[Philosophers/Modern Era/Ferdinand de Saussure\|Ferdinand de Saussure]]
 • [[Edmund Husserl\|Edmund Husserl]]
 • [[Philosophers/Modern Era/Henri Bergson\|Henri Bergson]]
-• [[John Dewey\|John Dewey]]
+• [[Philosophers/Modern Era/John Dewey\|John Dewey]]
 • [[George Santayana\|George Santayana]]
 • [[Miguel de Unamuno\|Miguel de Unamuno]]
 • [[William dua Bois\|William dua Bois]]
