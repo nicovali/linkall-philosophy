@@ -15,7 +15,7 @@
 
 ## Related Figures
 
--   [[Philosophers/Modern Era/John Dewey\|John Dewey]] - Rorty's work in philosophy of language and postmodernism was heavily influenced by the pragmatist ideas of John Dewey, and he has been described as a "neopragmatist."
+-   [[John Dewey\|John Dewey]] - Rorty's work in philosophy of language and postmodernism was heavily influenced by the pragmatist ideas of John Dewey, and he has been described as a "neopragmatist."
 
 ## Books
 
