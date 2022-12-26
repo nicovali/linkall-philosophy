@@ -16,7 +16,7 @@
 
 ## Related Figures
 
--   [[Arthur Schopenhauer\|Arthur Schopenhauer]] - Nietzsche's early work was heavily influenced by the philosophical ideas of Arthur Schopenhauer, and he later rejected many of Schopenhauer's views.
+-   [[Philosophers/Revolution Era/Arthur Schopenhauer\|Arthur Schopenhauer]] - Nietzsche's early work was heavily influenced by the philosophical ideas of Arthur Schopenhauer, and he later rejected many of Schopenhauer's views.
 
 ## Books
 
