@@ -3,8 +3,6 @@
 ---
 
 
-• [[Philosophers/Renaissance Era/George Berkeley\|George Berkeley]]
-
 | File                                                                         | Born Date |
 | ---------------------------------------------------------------------------- | --------- |
 | [[Philosophers/Renaissance Era/Niccolo Machiavelli\|Niccolo Machiavelli]] | 1469      |
