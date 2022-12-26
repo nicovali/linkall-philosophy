@@ -1,5 +1,5 @@
 ---
-{"title":"Blaise Pascal","dg-publish":true,"tags":["French","17th century","modern-era","figures"],"born-date":1623,"keywords":"Blaise Pascal, philosophy, mathematics, France","aliases":"French philosopher and mathematician","permalink":"/philosophers/rennaissance-era/blaise-pascal/","dgPassFrontmatter":true}
+{"title":"Blaise Pascal","dg-publish":true,"tags":["French","17th century","figures","renaissance-era"],"born-date":1623,"keywords":"Blaise Pascal, philosophy, mathematics, France","aliases":"French philosopher and mathematician","permalink":"/philosophers/rennaissance-era/blaise-pascal/","dgPassFrontmatter":true}
 ---
 
 
