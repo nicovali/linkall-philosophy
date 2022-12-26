@@ -14,7 +14,7 @@ Learn about philosophy is a hard thing if we don't know about grand view about p
 
 - [[Philosophers/Ancient Era/_Ancient Era\|_Ancient Era]]
 - [[Philosophers/Medieval Era/_Medieval Era\|_Medieval Era]]
-- [[Philosophers/Rennaissance Era/_Renaissance Era\|_Renaissance Era]]
+- [[Philosophers/Renaissance Era/_Renaissance Era\|_Renaissance Era]]
 - [[Philosophers/Revolution Era/_Revolution Era\|_Revolution Era]]
 - [[Philosophers/Modern Era/_Modern Era\|_Modern Era]]
 - [[Philosophers/Contemporary Era/_Contemporary Era\|_Contemporary Era]]
