@@ -76,7 +76,11 @@ If you looking for specific thing on philosopher's background you can search it 
 
 
 
+---
+---
+```
 #ancient-era, #contemporary-era, #medieval-era, #modern-era, #rennaissance-era, #revolution-era
+```
 
 </div></div>
 
