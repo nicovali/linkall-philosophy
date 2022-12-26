@@ -15,7 +15,7 @@
 
 ## Related Figures
 
--   [[René Descartes\|René Descartes]] - Spinoza's work in philosophy was heavily influenced by the ideas of René Descartes, and he is often considered to be a major figure in the development of modern philosophy.
+-   [[Philosophers/Renaissance Era/René Descartes\|René Descartes]] - Spinoza's work in philosophy was heavily influenced by the ideas of René Descartes, and he is often considered to be a major figure in the development of modern philosophy.
 
 ## Books
 
