@@ -1,5 +1,5 @@
 ---
-{"title":"Gottfried Wilhelm Leibniz","dg-publish":true,"tags":["German","17th century","modern-era","figures"],"born-date":1646,"keywords":"Gottfried Wilhelm Leibniz, philosophy, mathematics, Germany","aliases":"German philosopher and mathematician","permalink":"/philosophers/rennaissance-era/gottfried-leibniz/","dgPassFrontmatter":true}
+{"title":"Gottfried Wilhelm Leibniz","dg-publish":true,"tags":["German","17th century","figures","renaissance-era"],"born-date":1646,"keywords":"Gottfried Wilhelm Leibniz, philosophy, mathematics, Germany","aliases":"German philosopher and mathematician","permalink":"/philosophers/rennaissance-era/gottfried-leibniz/","dgPassFrontmatter":true}
 ---
 
 
