@@ -1,5 +1,5 @@
 ---
-{"title":"René Descartes","dg-publish":true,"tags":["French","17th century","modern-era","figures"],"born-date":1596,"keywords":"René Descartes, philosophy, science, France","aliases":"French philosopher and mathematician","permalink":"/philosophers/rennaissance-era/rene-descartes/","dgPassFrontmatter":true}
+{"title":"René Descartes","dg-publish":true,"tags":["French","17th century","figures","renaissance-era"],"born-date":1596,"keywords":"René Descartes, philosophy, science, France","aliases":"French philosopher and mathematician","permalink":"/philosophers/rennaissance-era/rene-descartes/","dgPassFrontmatter":true}
 ---
 
 
