@@ -1,5 +1,5 @@
 ---
-{"title":"Thales of Miletus","dg-publish":true,"tags":["epistemologists","metaphysicians","1-10th","ancient-era","Greek","figures"],"born-date":"c. 624 BCE","keywords":"Thales of Miletus, philosopher, classical Greece, metaphysics, mathematics","aliases":"father of Western philosophy, founder of the Milesian School","permalink":"/philosophers/ancient-era/thales-of-miletus/","dgPassFrontmatter":true}
+{"title":"Thales of Miletus","dg-publish":true,"tags":["epistemologists","metaphysicians","1-10th","ancient-era","Greek","figures"],"born-date":-624,"keywords":"Thales of Miletus, philosopher, classical Greece, metaphysics, mathematics","aliases":"father of Western philosophy, founder of the Milesian School","permalink":"/philosophers/ancient-era/thales-of-miletus/","dgPassFrontmatter":true}
 ---
 
 ## Biography
