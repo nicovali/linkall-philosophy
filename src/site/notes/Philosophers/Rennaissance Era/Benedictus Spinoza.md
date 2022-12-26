@@ -1,5 +1,5 @@
 ---
-{"title":"Benedictus de Spinoza","dg-publish":true,"tags":["Dutch","17th century","modern-era","figures"],"born-date":1632,"keywords":"Benedictus de Spinoza, philosophy, Netherlands","aliases":"Dutch philosopher","permalink":"/philosophers/rennaissance-era/benedictus-spinoza/","dgPassFrontmatter":true}
+{"title":"Benedictus de Spinoza","dg-publish":true,"tags":["Dutch","17th century","figures","renaissance-era"],"born-date":1632,"keywords":"Benedictus de Spinoza, philosophy, Netherlands","aliases":"Dutch philosopher","permalink":"/philosophers/rennaissance-era/benedictus-spinoza/","dgPassFrontmatter":true}
 ---
 
 ## Biography
