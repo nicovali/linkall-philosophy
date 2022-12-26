@@ -1,5 +1,5 @@
 ---
-{"Title":"David Hume","dg-publish":true,"tags":["enlightenment","18th century","revolution-era","Scottish","empiricism","metaphysics","figures"],"born-date":1711,"keywords":"David Hume, Scottish Enlightenment, empiricism, skepticism, causation","aliases":"None","permalink":"/philosophers/revolution-era/david-hume/","dgPassFrontmatter":true}
+{"Title":"David Hume","dg-publish":true,"tags":["enlightenment","18th century","revolution-era","Scottish","empiricism","metaphysics","figures"],"born-date":1711,"keywords":"David Hume, Scottish Enlightenment, empiricism, skepticism, causation","aliases":"Empiricism","permalink":"/philosophers/revolution-era/david-hume/","dgPassFrontmatter":true}
 ---
 
 
