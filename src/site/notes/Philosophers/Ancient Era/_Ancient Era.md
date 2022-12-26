@@ -2,25 +2,18 @@
 {"dg-publish":true,"permalink":"/philosophers/ancient-era/ancient-era/","dgPassFrontmatter":true}
 ---
 
-• [[Philosophers/Ancient Era/Thales of Miletus\|Thales of Miletus]]
-• [[Philosophers/Ancient Era/Anaximander\|Anaximander]]
-• [[Philosophers/Ancient Era/Anaximenes\|Anaximenes]]
-• [[Laozi\|Laozi]]
-• [[Philosophers/Ancient Era/Pythagoras\|Pythagoras]]
-• [[Siddhartha Gautama\|Siddhartha Gautama]]
-• [[Confucius\|Confucius]]
-• [[Heraclitus\|Heraclitus]]
-• [[Parmenides\|Parmenides]]
-• [[Protagoras\|Protagoras]]
-• [[Mozi \|Mozi ]]
-• [[Philosophers/Ancient Era/Democritus\|Democritus]]
-• [[Philosophers/Ancient Era/Socrates\|Socrates]]
-• [[Philosophers/Ancient Era/Plato\|Plato]]
-• [[Philosophers/Ancient Era/Aristotle\|Aristotle]]
-• [[Epicurus\|Epicurus]]
-• [[Diogenes of Sinope\|Diogenes of Sinope]]
-• [[Philosophers/Ancient Era/Zeno of Citium\|Zeno of Citium]]
-• [[Philosophers/Ancient Era/Epictetus\|Epictetus]]
-• [[Philosophers/Ancient Era/Marcus Aurelius\|Marcus Aurelius]]
 
+| File                                                                 | Born Date |
+| -------------------------------------------------------------------- | --------- |
+| [[Philosophers/Ancient Era/Thales of Miletus\|Thales of Miletus]] | -624      |
+| [[Philosophers/Ancient Era/Anaximander\|Anaximander]]             | -610      |
+| [[Philosophers/Ancient Era/Anaximenes\|Anaximenes]]               | -585      |
+| [[Philosophers/Ancient Era/Pythagoras\|Pythagoras]]               | -570      |
+| [[Philosophers/Ancient Era/Socrates\|Socrates]]                   | -469      |
+| [[Philosophers/Ancient Era/Democritus\|Democritus]]               | -460      |
+| [[Philosophers/Ancient Era/Plato\|Plato]]                         | -427      |
+| [[Philosophers/Ancient Era/Aristotle\|Aristotle]]                 | -384      |
+| [[Philosophers/Ancient Era/Zeno of Citium\|Zeno of Citium]]       | -334      |
+| [[Philosophers/Ancient Era/Epictetus\|Epictetus]]                 | 55        |
+| [[Philosophers/Ancient Era/Marcus Aurelius\|Marcus Aurelius]]     | 121       |
 
