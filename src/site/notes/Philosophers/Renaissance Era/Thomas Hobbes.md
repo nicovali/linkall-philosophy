@@ -1,5 +1,5 @@
 ---
-{"title":"Thomas Hobbes","dg-publish":true,"tags":["English","17th century","modern-era","figures","renaissance-era"],"born-date":1588,"keywords":"Thomas Hobbes, philosophy, politics, England","aliases":"English philosopher and political theorist","permalink":"/philosophers/renaissance-era/thomas-hobbes/","dgPassFrontmatter":true}
+{"title":"Thomas Hobbes","dg-publish":true,"tags":["English","17th century","figures","renaissance-era"],"born-date":1588,"keywords":"Thomas Hobbes, philosophy, politics, England","aliases":"English philosopher and political theorist","permalink":"/philosophers/renaissance-era/thomas-hobbes/","dgPassFrontmatter":true}
 ---
 
 
