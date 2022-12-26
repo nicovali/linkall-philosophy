@@ -31,7 +31,7 @@ Learn about philosophy is a hard thing if we don't know about grand view about p
 
 
 
-
+> [!warning]  Sorry, Branch of Philosophy Notes Under Development
 
 </div></div>
 
@@ -43,6 +43,7 @@ Learn about philosophy is a hard thing if we don't know about grand view about p
 
 
 
+> [!warning]  Sorry, The Concept of Philosophy Notes Under Development
 
 </div></div>
 
