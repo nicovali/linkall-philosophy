@@ -2,10 +2,11 @@
 {"dg-home":true,"dg-publish":true,"permalink":"/home/","tags":"gardenEntry","dgPassFrontmatter":true}
 ---
 
-Here if you looking on book of the philosophers [[Books/_Book Genre of Philosophy\|_Book Genre of Philosophy]]
+Here if you are looking for books from the philosophers [[Books/_Book Genre of Philosophy\|_Book Genre of Philosophy]]
+
+Learn about philosophy is a hard thing if we don't know about grand view about philosophy. Also because we don't know where to start. There're some ways to learn philosophy. We can learn based on history, based on branch category of philosophy, or based on concept theory on philosophy. After that we need to know some philosophers because philosophy theory come from philosophers thinking. Here are Philosophy structure if you want to learn based history timeline, from branch of philosophy, or concept on philosophy:
 
 ## Based on Philosophers Timeline
-
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -21,7 +22,32 @@ Here if you looking on book of the philosophers [[Books/_Book Genre of Philosoph
 </div></div>
 
 
+## Based on Branch
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+</div></div>
+
+
+## Based on Concept Theory
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+</div></div>
+
+
+
+
 ## Based on Uniqueness
+If you looking for specific thing on philosopher's background you can search it (ctrl+k) with these below tags. 
 #### Branch Tags
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -78,24 +104,6 @@ Here if you looking on book of the philosophers [[Books/_Book Genre of Philosoph
 
 </div></div>
 
-## Based on Branch
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
-
-
-
-</div></div>
-
-
-## Based on Concept Theory
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-</div></div>
-
+The outline was inspired by philosophy book by DK
