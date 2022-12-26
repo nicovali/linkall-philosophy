@@ -16,7 +16,7 @@
 
 ## Related Figures
 
--   [[René Descartes\|René Descartes]] - Bacon's work in philosophy and science was heavily influenced by the ideas of René Descartes, and he is often considered to be a major figure in the development of modern philosophy and science.
+-   [[Philosophers/Renaissance Era/René Descartes\|René Descartes]] - Bacon's work in philosophy and science was heavily influenced by the ideas of René Descartes, and he is often considered to be a major figure in the development of modern philosophy and science.
 
 ## Books
 
