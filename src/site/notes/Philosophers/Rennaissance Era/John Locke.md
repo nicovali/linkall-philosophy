@@ -1,5 +1,5 @@
 ---
-{"title":"John Locke","dg-publish":true,"tags":["English","17th century","modern-era","figures"],"born-date":1632,"keywords":"John Locke, philosophy, politics, England","aliases":"English philosopher and political theorist","permalink":"/philosophers/rennaissance-era/john-locke/","dgPassFrontmatter":true}
+{"title":"John Locke","dg-publish":true,"tags":["English","17th century","figures","renaissance-era"],"born-date":1632,"keywords":"John Locke, philosophy, politics, England","aliases":"English philosopher and political theorist","permalink":"/philosophers/rennaissance-era/john-locke/","dgPassFrontmatter":true}
 ---
 
 ## Biography
