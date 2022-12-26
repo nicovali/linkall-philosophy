@@ -2,19 +2,25 @@
 {"dg-publish":true,"permalink":"/philosophers/ancient-era/ancient-era/","dgPassFrontmatter":true}
 ---
 
-• [[Thales of Miletus\|Thales of Miletus]]
+• [[Philosophers/Ancient Era/Thales of Miletus\|Thales of Miletus]]
+• [[Philosophers/Ancient Era/Anaximander\|Anaximander]]
+• [[Philosophers/Ancient Era/Anaximenes\|Anaximenes]]
 • [[Laozi\|Laozi]]
-• [[Pythagoras\|Pythagoras]]
+• [[Philosophers/Ancient Era/Pythagoras\|Pythagoras]]
 • [[Siddhartha Gautama\|Siddhartha Gautama]]
 • [[Confucius\|Confucius]]
 • [[Heraclitus\|Heraclitus]]
 • [[Parmenides\|Parmenides]]
 • [[Protagoras\|Protagoras]]
 • [[Mozi \|Mozi ]]
-• [[Democritus and Leucippus\|Democritus and Leucippus]]
-• [[Socrates\|Socrates]]
-• [[Plato\|Plato]]
-• [[Aristotle\|Aristotle]]
+• [[Philosophers/Ancient Era/Democritus\|Democritus]]
+• [[Philosophers/Ancient Era/Socrates\|Socrates]]
+• [[Philosophers/Ancient Era/Plato\|Plato]]
+• [[Philosophers/Ancient Era/Aristotle\|Aristotle]]
 • [[Epicurus\|Epicurus]]
 • [[Diogenes of Sinope\|Diogenes of Sinope]]
-• [[Zeno of Citium\|Zeno of Citium]]
+• [[Philosophers/Ancient Era/Zeno of Citium\|Zeno of Citium]]
+• [[Philosophers/Ancient Era/Epictetus\|Epictetus]]
+• [[Philosophers/Ancient Era/Marcus Aurelius\|Marcus Aurelius]]
+
+
