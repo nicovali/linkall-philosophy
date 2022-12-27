@@ -19,7 +19,7 @@
 
 ## Related Figures
 
--   [[Edmund Husserl\|Edmund Husserl]] - Merleau-Ponty's work was influenced by Husserl's philosophy of Phenomenology.
+-   [[Philosophers/Modern Era/Edmund Husserl\|Edmund Husserl]] - Merleau-Ponty's work was influenced by Husserl's philosophy of Phenomenology.
 -   [[Philosophers/Modern Era/Jean-Paul Sartre\|Jean-Paul Sartre]] - Merleau-Ponty and Sartre were both leading figures in the French Existentialist movement.
 
 ## Books
