@@ -15,7 +15,7 @@ Biography
 
 ## Related Figures
 
--   [[Edmund Husserl\|Edmund Husserl]] - Heidegger's early work was heavily influenced by the philosophical ideas of Edmund Husserl, and he later developed his own distinct philosophical views.
+-   [[Philosophers/Modern Era/Edmund Husserl\|Edmund Husserl]] - Heidegger's early work was heavily influenced by the philosophical ideas of Edmund Husserl, and he later developed his own distinct philosophical views.
 
 ## Books
 
