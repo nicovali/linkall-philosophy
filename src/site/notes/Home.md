@@ -22,6 +22,7 @@ Learn about philosophy is a hard thing if we don't know about grand view about p
 
 </div></div>
 
+
 ### Eastern Philosophy
 > [!warning]  Sorry, Eastern Philosophy Notes Under Development
 
