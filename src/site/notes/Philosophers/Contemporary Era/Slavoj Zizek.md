@@ -20,7 +20,7 @@
 ## Related Figures
 
 -   [[Jacques Lacan\|Jacques Lacan]] - Žižek's work is heavily influenced by Lacanian theory.
--   [[Karl Marx\|Karl Marx]] - Žižek is a Marxist philosopher.
+-   [[Philosophers/Revolution Era/Karl Marx\|Karl Marx]] - Žižek is a Marxist philosopher.
 
 ## Books
 
