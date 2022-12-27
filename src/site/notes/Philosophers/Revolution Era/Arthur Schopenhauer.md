@@ -19,7 +19,7 @@
 
 ## Related Figures
 
--   [[Immanuel Kant\|Immanuel Kant]] - Schopenhauer's work was heavily influenced by Kant's philosophy.
+-   [[Philosophers/Revolution Era/Immanuel Kant\|Immanuel Kant]] - Schopenhauer's work was heavily influenced by Kant's philosophy.
 -   [[Philosophers/Modern Era/Friedrich Nietzsche\|Friedrich Nietzsche]] - Nietzsche was heavily influenced by Schopenhauer's philosophy of the Will.
 
 ## Books
